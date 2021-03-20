@@ -13,5 +13,5 @@ N ; previous search
 ?? ; last search
 
 ## * and # Search
-'*' to search word currently on forwards
+* to search word currently on forwards
 '#' to search word currently on backwards

@@ -15,3 +15,11 @@ N ; previous search     \
 ## * and # Search
 /* to search word currently on forwards \
 /# to search word currently on backwards
+
+## Useful Commands
+:%s/[search]/[replace]/[options]
+### options
+g ; global\
+i; ignore case\
+c ; give confirmation\
+gic ; global ignore confirmation\

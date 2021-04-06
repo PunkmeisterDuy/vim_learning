@@ -14,6 +14,10 @@ B ; previous WORD\
 e; end of word\
 E; end of WORD\
 
+_ ; to go to begining of line \
+$ ; to go to end of line \
+
+
 ## Tabs
 :tabnew ; new tab\
 :tabprevious ; :tabp ; gT ; previous tab\
